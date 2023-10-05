@@ -1,2 +1,3 @@
 # Student-Management-System
-C and Embedded C programming course project
+This project is programmed using C language.
+Used Double linked list data structure, pointers, arrays, functions, sorting 
